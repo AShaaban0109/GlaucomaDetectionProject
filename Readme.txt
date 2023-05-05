@@ -1,3 +1,6 @@
+Models: https://drive.google.com/drive/folders/1eipip7OMcqV5DzXyc5uxtN1io7qFoByU?usp=sharing
+Dataset: https://www.kaggle.com/ds/2329670 
+
 2 Jupiter notebooks are provided showing example code:
 
 #################################################################################
